@@ -10,8 +10,8 @@ Reasoning - %%% I installed Wsl by the help of given video in zeroth.c . After e
 ' .
 
 ```
-%%% what manual page do you want? 
-For example, try 'man man %%%
+ what manual page do you want? 
+For example, try 'man man 
 ```
 ---
 
@@ -19,7 +19,8 @@ For example, try 'man man %%%
 
 Reasoning - %%% As stated in readme file under Normal section, i searched about Rotation(like rot13) and used https://rot13.com/ to decode the text and i cracked it using ' rot8 '. It's output was- %%%
 ```
-%%% noicee you did crack a rotation encryption on your own. The following is a clue for the next puzzle: CLASS of that INPUT%%%
+ noicee you did crack a rotation encryption on your own. The following is a clue for the next puzzle: CLASS of that INPU
+
 ```
 
 ---
@@ -31,7 +32,7 @@ Reasoning - %%% On searching strings.txt was not there in root , so i tried by u
 
 
 ```
-%%% A = Lamp_Stack_task/question_mark/Lamp_Stack/1/5/0/3/strings.txt
+ A = Lamp_Stack_task/question_mark/Lamp_Stack/1/5/0/3/strings.txt
 8dc2evcCSSc4kUy (password)
 
 Lamp_Stack_task/question_mark/Lamp_Stack/final.txt: kw4QLNylm2inErX
@@ -53,7 +54,7 @@ Lamp_Stack_task/question_mark/Lamp_Stack/final.txt: TqMuGims7vlJtno
 Lamp_Stack_task/question_mark/Lamp_Stack/ten.txt:   TqMuGims7vlJtno
 
 Lamp_Stack_task/question_mark/Lamp_Stack/final.txt: 8dc2evcCSSc4kUy 
-Lamp_Stack_task/question_mark/Lamp_Stack/eleven.txt: 8dc2evcCSSc4kUy %%%
+Lamp_Stack_task/question_mark/Lamp_Stack/eleven.txt: 8dc2evcCSSc4kUy 
 ```
 
 ---
@@ -64,8 +65,8 @@ Reasoning -  %%% unzipped fourth.zip using password :- eleven.txt. Then a direct
 
  
 ```
-%%% Path of file : Lamp_Stack/get_in/4/2_inner/0.txt
-The string is : DevOps{y0ur3_4w350m3_4nd_0ne_5t3p_c1053r} %%%
+Path of file : Lamp_Stack/get_in/4/2_inner/0.txt
+The string is : DevOps{y0ur3_4w350m3_4nd_0ne_5t3p_c1053r}
 ```
 
 ---
